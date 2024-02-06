@@ -1,0 +1,9 @@
+.idea
+*.pyc
+__pycache__
+.docker
+htmlcov
+.coverage
+build
+python_workflow.egg-info
+dist
