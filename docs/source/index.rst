@@ -15,7 +15,7 @@ Chapters
   Getting started with **python-workflow**
 
 :doc:`apireference`
-  The complete API documentation --- the innards of documents, querysets and fields.
+  The complete API documentation
 
 Indices and tables
 ------------------
