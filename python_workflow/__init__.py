@@ -10,7 +10,7 @@ from gevent.pool import Pool
 logger = logging.getLogger('python-workflow')
 
 
-VERSION = (1, 0, 0)
+VERSION = (1, 0, 1)
 
 
 def get_version():
