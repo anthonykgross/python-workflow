@@ -1,7 +1,9 @@
 [![Python Application](https://github.com/anthonykgross/python-workflow/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/anthonykgross/python-workflow/actions/workflows/main.yml)
 
 # python-workflow
+A small framework to do workflows with threadable tasks
 
+Documentation : https://anthonykgross.fr/python-workflow/
 
 ## Install
 **From PyPI**

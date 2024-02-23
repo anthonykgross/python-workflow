@@ -12,7 +12,7 @@ Welcome to python-workflow's documentation!
 Chapters
 -----------
 :doc:`tutorial`
-  azdazdets and fields.
+  Getting started with **python-workflow**
 
 :doc:`apireference`
   The complete API documentation --- the innards of documents, querysets and fields.
