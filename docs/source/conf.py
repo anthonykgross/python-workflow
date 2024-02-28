@@ -48,3 +48,11 @@ autodoc_default_options = {
     'show-inheritance': True,
     'special-members': '__init__'
 }
+
+html_context = {
+    "display_github": True,
+    "github_user": "anthonykgross",
+    "github_repo": "python-workflow",
+    "github_version": "main",
+    "conf_py_path": "/docs/source/",
+}
